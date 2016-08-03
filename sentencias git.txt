@@ -4,3 +4,4 @@ git status -> muestra el estado de nuestro proyecto
 
 git add---> decimos que archivos estan listo para el siguiente paso(commit)
 
+git commit -m "Mensaje" --> guarda los cambios
