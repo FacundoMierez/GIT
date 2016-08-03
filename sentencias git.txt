@@ -1,0 +1,6 @@
+git init--> marca el inicio de nuestro proyecto, le decimos a GIT que empiece a montorear todos nuestros cambios, solo se utiliza una vez al iniciar git en nuestro proyecto
+
+git status -> muestra el estado de nuestro proyecto
+
+git add---> decimos que archivos estan listo para el siguiente paso(commit)
+
