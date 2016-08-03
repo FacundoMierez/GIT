@@ -1,0 +1,23 @@
+commit 188a54044d32bbddadb9276e9b699021a6a4f221
+Author: FacundoMierez <facundomierez@gmail.com>
+Date:   Wed Aug 3 12:52:53 2016 -0300
+
+    Agregando comando git reset
+
+commit 0be737e6b6b1319398c717f76c823d885cfb9032
+Author: FacundoMierez <facundomierez@gmail.com>
+Date:   Wed Aug 3 12:40:25 2016 -0300
+
+    Moficando la guia de git en txt
+
+commit 283d17a7f75adf0f01be601a4fbb19f2402bbded
+Author: FacundoMierez <facundomierez@gmail.com>
+Date:   Wed Aug 3 12:37:11 2016 -0300
+
+    Tutorial de Git
+
+commit 03f44c2af52d0c5b412dd5a8ee9e7598854f4f83
+Author: FacundoMierez <facundomierez@gmail.com>
+Date:   Wed Aug 3 12:36:07 2016 -0300
+
+    Tutorial de Git

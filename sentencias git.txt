@@ -8,4 +8,14 @@ git commit -m "Mensaje" --> guarda los cambios
 
 git log-> nos devuelve una lista de todos nuestro commits con su respectiva info
 
+git checkout master --> nos lleva al ultimo commit
 
+git reset --> es similar al checkout pero este elimina los commits
+
+git reset --soft --> es el mas simple del git reset, no toca nuestro Working Area (no se mete con nuestro codigo)
+
+git reset --mixed --> este borra el staging area, sin tocar el working area.
+
+git reset --hard--> este borra absolutamente todo lo que hay en el commit
+
+git log > commits.txt -> te genera un txt con todos los commits
