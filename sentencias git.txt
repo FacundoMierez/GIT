@@ -30,7 +30,10 @@ git branch --> devuelve la rama existentes, con verde es la rama en la cual esta
 
 git branch nombrerama --> para crear una rama
 
+git checkout nombrerama --> me muevo de una rama a otra que le pasamos el nombre
 git branch -D nombrerama-> borrar una rama
+
+git branch -b --> se mueve de rama pero tambien la crea
 
 Fusiones: es la creacion de un nuevo commit juntando una rama con otra
 	*primero posicionarse en la rama de la cual va a absorver los cambios
