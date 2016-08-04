@@ -31,6 +31,7 @@ git branch --> devuelve la rama existentes, con verde es la rama en la cual esta
 git branch nombrerama --> para crear una rama
 
 git checkout nombrerama --> me muevo de una rama a otra que le pasamos el nombre
+
 git branch -D nombrerama-> borrar una rama
 
 git branch -b --> se mueve de rama pero tambien la crea
@@ -38,3 +39,13 @@ git branch -b --> se mueve de rama pero tambien la crea
 Fusiones: es la creacion de un nuevo commit juntando una rama con otra
 	*primero posicionarse en la rama de la cual va a absorver los cambios
 	*git merge nombrerama(nombre rama deberia ser el nombre de la rama que va a ser absorvdida)-->lo que hace es fusionar
+
+git clone--> sirve para clonar un proyecto
+
+git remote--> vincula nuestro proyecto local, con nuestro proyecto remoto 
+
+git remote add origin <direccion> -->vincula el repo local con el remoto
+
+git remote remove origin --> eliminar vinculacion
+	
+git remote -v ->repositorios remotos
