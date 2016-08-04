@@ -34,3 +34,4 @@ git branch -d nombrerama-> borrar una rama
 
 Fusiones: es la creacion de un nuevo commit juntando una rama con otra
 	*primero posicionarse en la rama de la cual va a absorver los cambios
+	*git merge nombrerama(nombre rama deberia ser el nombre de la rama que va a ser absorvdida)-->lo que hace es fusionar
