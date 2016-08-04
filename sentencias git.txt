@@ -16,6 +16,16 @@ git reset --soft --> es el mas simple del git reset, no toca nuestro Working Are
 
 git reset --mixed --> este borra el staging area, sin tocar el working area.
 
-git reset --hard--> este borra absolutamente todo lo que hay en el commit
+git reset --hard--> este borra absolutamente todo lo que hay en el commit y nuestro codigo
 
 git log > commits.txt -> te genera un txt con todos los commits
+
+git help -->documentacion
+
+git help status-->documentacion especifica de status
+
+q:salir del log por ejemplo
+
+git branch --> devuelve la rama existentes, con verde es la rama en la cual estamos
+
+git branch nombrerama --> para crear una rama
