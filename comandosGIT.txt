@@ -53,3 +53,5 @@ git remote -v ->repositorios remotos
 git push origin master(master seria el nombre de la rama)->manda los cambios al repositorio remoto
 
 Issues: son una forma para continuar, mejorar o solucionar un error en los repositorios
+
+git commit --amend -m "nuevo mensaje" ---> para cambiar el mensaje del commit
