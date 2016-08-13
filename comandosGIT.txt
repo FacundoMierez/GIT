@@ -56,5 +56,5 @@ Issues: son una forma para continuar, mejorar o solucionar un error en los repos
 
 git commit --amend -m "nuevo mensaje" ---> para cambiar el mensaje del commit y luego hay que hacer git push origin master -f para fuerza para que se suban los cambios, porque git reconoce que los commit son iguales, o sea no hay nuevos commit, los commit siguen siendo iguales
 git branch -a -> muestra las ramas ocultas, hay que tener en cuenta que existe una rama oculta llamada origin master que es una copia de la rama master
-git fetch origin --> envia los cambios a la rama origin/master
+git fetch origin --> envia los cambios a la rama origin/master y que generalmente viene seguido del siguient comando
 git merge origin/master->funciona los cambios
