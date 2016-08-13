@@ -58,3 +58,9 @@ git commit --amend -m "nuevo mensaje" ---> para cambiar el mensaje del commit y 
 git branch -a -> muestra las ramas ocultas, hay que tener en cuenta que existe una rama oculta llamada origin master que es una copia de la rama master
 git fetch origin --> envia los cambios a la rama origin/master y que generalmente viene seguido del siguient comando
 git merge origin/master->funciona los cambios
+
+Github pages: podemos generar un dominio para un sitio web(solo front end) a partir de nuestros usuarios, como:
+1)creamos un repositorio con el siguiente formato, usuario.github.io : FacundoMierez.github.io
+2)luego clonamos el proyecto y agregamos los archivos respectivos
+3)se sube los archivos y luego te genera el dominio como usuario.github.io : FacundoMierez.github.io
+Para un proyecto (probar si es necesario con establecer como organizacion) deberiamos crear el proyecto, luego hay que crear una rama llamada git branch gh-pages, luego clonamos el repo y todos los archivos de nuestro sitio van dentro de esa rama.
