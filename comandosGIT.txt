@@ -64,3 +64,5 @@ Github pages: podemos generar un dominio para un sitio web(solo front end) a par
 2)luego clonamos el proyecto y agregamos los archivos respectivos
 3)se sube los archivos y luego te genera el dominio como usuario.github.io : FacundoMierez.github.io
 Para un proyecto (probar si es necesario con establecer como organizacion) deberiamos crear el proyecto, luego hay que crear una rama llamada git branch gh-pages, luego clonamos el repo y todos los archivos de nuestro sitio van dentro de esa rama.
+
+$ git remote set-url origin facundo@192.168.0.107:repositorio/project.git --> resetear el repositorio vinculado
